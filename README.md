@@ -1,10 +1,11 @@
-# Node.js HTTP response code.
+# Node.js HTTP response status code.
 
 > 
 > No Dependency!
 > - node.js itself
 > - http module (Pre Installed with node.js)
 
+>
 > Installation guide.
 > - Locate the constants.js file, copy it to your project.
 > - import the required constant
